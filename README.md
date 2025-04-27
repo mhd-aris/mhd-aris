@@ -4,7 +4,7 @@
 - 🌱 Currently diving into the worlds of JavaScript and GO.
 - 📫 Let's Connect!
   - LinkedIn: [Muhammad Aris](https://www.linkedin.com/in/mhd-aris/)
-  - Telegram: [MhdArisID](https://t.me/MhdArisID)
+  - Telegram: [MhdArisID](https://t.me/xristotle)
 
 
 <!---
