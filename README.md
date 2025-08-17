@@ -13,4 +13,4 @@ I enjoy creating things that solve real problems and make life a little easier f
 I’m also active in the DevWeb3Jogja community and often take part in hackathons. Right now, I’m building projects that excite me whether they live in Web3, SaaS, or somewhere in between.
 
 Feel free to explore my work and connect!  
-[LinkedIn](https://www.linkedin.com/in/mhd-aris) · [GitHub](https://github.com/mhd-aris)
+[LinkedIn](https://www.linkedin.com/in/mhd-aris) · [Telegram](https://t.me/xristotle)
