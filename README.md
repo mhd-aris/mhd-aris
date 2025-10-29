@@ -6,11 +6,19 @@
 
 ---
 
-I'm Aris, Associate Software Engineer with a strong interest in building systems that solve real problems and create meaningful impact. Passion lies in exploring how technology—whether Web3, SaaS, or emerging platforms—can empower people and improve workflows.
+I'm Aris,
+I build systems not just to make things work
+but to make them meaningful.
 
-Driven by curiosity and a constant pursuit of technical excellence. Every project is an opportunity to push ideas further, learn deeply, and craft solutions that last.
+Curiosity keeps me exploring, 
+discipline keeps me building.  
+Every project is a chance to learn, connect,  
+and turn ideas into something real.
 
-Currently focused on projects that blend scalability, clean architecture, and innovation in decentralized and cloud-native ecosystems.
+Now growing as an Associate Software Engineer,
+learning to balance precision with empathy,  
+and building with intention in a world that never stops evolving.
+
 
 Explore more or connect:  
 [LinkedIn](https://www.linkedin.com/in/mhd-aris) · [Telegram](https://t.me/xristotle)
