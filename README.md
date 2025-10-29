@@ -6,14 +6,12 @@
 
 ---
 
-I'm Aris,
-I build systems not just to make things work
+I'm Aris<br>
+Build systems not just to make things work
 but to make them meaningful.
 
-Curiosity keeps me exploring, 
-discipline keeps me building.  
-Every project is a chance to learn, connect,  
-and turn ideas into something real.
+Curiosity keeps me exploring, discipline keeps me building.  
+Every project is a chance to learn, connect, and turn ideas into something real.
 
 Now growing as an Associate Software Engineer,
 learning to balance precision with empathy,  
