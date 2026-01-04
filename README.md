@@ -13,10 +13,7 @@ but to make them meaningful.
 Curiosity keeps me exploring, discipline keeps me building.  
 Every project is a chance to learn, connect, and turn ideas into something real.
 
-Now growing as an Associate Software Engineer,
-learning to balance precision with empathy,  
-and building with intention in a world that never stops evolving.
-
+Now growing as an Associate Software Engineer.
 
 Explore more or connect:  
 [LinkedIn](https://www.linkedin.com/in/mhd-aris) · [Telegram](https://t.me/xristotle)
